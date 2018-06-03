@@ -157,7 +157,7 @@
   "settings.tab.2fa-long": "Two-factor authentication",
   "settings.tab.2fa-short": "Two-factor auth",
   "settings.basic-info-title": "Basic user information",
-  "settings.no-email-warn": "Your account doesn't have a verified email set. If you lose your password, LocalMonero will not be able to help you reset it.",
+  "settings.no-email-warn": "Your account doesn't have a verified email yet. If you lose your password, LocalMonero will not be able to help you reset it.",
   "settings.vacation-title": "Vacation",
   "settings.buying-vacation-title": "Buying vacation",
   "settings.buying-vacation-tip": "Hides all your ads for purchase from public view and prevents other users from requesting a trade",
